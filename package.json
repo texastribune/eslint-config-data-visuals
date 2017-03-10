@@ -33,6 +33,6 @@
     "eslint": "3.17.0"
   },
   "devDependencies": {
-    "publish-please": "^2.2.0"
+    "publish-please": "^2.3.0"
   }
 }
