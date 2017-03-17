@@ -30,7 +30,7 @@
     "eslint-plugin-standard": "^2.1.1"
   },
   "peerDependencies": {
-    "eslint": "3.17.0"
+    "eslint": "3.18.0"
   },
   "devDependencies": {
     "publish-please": "^2.2.0"
